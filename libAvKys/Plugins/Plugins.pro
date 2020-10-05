@@ -72,6 +72,7 @@ isEmpty(NOVIDEOEFFECTS): SUBDIRS += \
     Life \
     Matrix \
     MatrixTransform \
+    Mirror \
     Nervous \
     Normalize \
     OilPaint \
